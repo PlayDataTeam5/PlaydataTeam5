@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+.brown{
+    background-color: chartreuse;
+}
+
+#gray{
+    background-color: gray;
+}
+
+.font-gray{
+    color: gray;
+}
+
+#font-gray{
+    color: gray;
+}
